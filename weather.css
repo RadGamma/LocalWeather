@@ -1,0 +1,34 @@
+div
+{
+-moz-box-sizing:border-box; /* Firefox */
+border:2px solid;
+border-radius:25px;
+border-top-left-radius:2em;
+border-top-right-radius:2em;
+border-bottom-right-radius:2em;
+border-bottom-left-radius:2em;
+box-sizing:border-box;
+width:50%;
+float:left;
+background-color:#336699;
+} 
+
+h2
+{
+text-shadow: 5px 5px 5px #000000;
+color: white;
+text-align:center;
+} 
+
+h3
+{
+text-shadow: 5px 5px 5px #000000;
+color: white;
+text-align:center;
+} 
+
+div.img
+{
+float:left;
+}
+
